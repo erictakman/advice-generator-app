@@ -46,9 +46,11 @@ p {
 	font-size: var(--font-size-quote);
 	color: var(--color-light-cyan);
 	font-weight: 800;
+	text-align: center;
 }
 
 .card {
+	width: 100%;
 	position: relative;
 	display: flex;
 	flex-direction: column;
@@ -66,7 +68,6 @@ p {
 	justify-content: center;
 	align-items: center;
 	height: 1rem;
-	min-width: 100%;
 	background-repeat: no-repeat;
 	margin: 0 0 2rem 0;
 }
@@ -91,13 +92,22 @@ p {
 
 @media screen and (min-width: 375px) {
 	.divider {
+		width: 100%;
 		background-image: url("../images/pattern-divider-mobile.svg");
+	}
+
+	.card {
+		max-width: 295px;
 	}
 }
 
 @media screen and (min-width: 1440px) {
 	.divider {
-		width: 445px;
+		width: 100%;
 		background-image: url("../images/pattern-divider-desktop.svg");
+	}
+
+	.card {
+		max-width: 445px;
 	}
 }
