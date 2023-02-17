@@ -1,8 +1,10 @@
-![](./screenshot.jpg)
+![](./images//screenshot.png)
 
-# Advice generator app solution
+# Advice (Beer 🍺) generator app solution
 
 ## Overview
+
+This challenge was to build an advice generator app and get it looking as close to the design provided by Frontend Mentors example as possible. I decided to pivot and use an api that generates random beer names and breweries instead of advice because of problems with generating new advices.
 
 ### The challenge
 
@@ -14,18 +16,20 @@ Users should be able to:
 
 ## My process
 
+Started out with adding the HTML and CSS for the basic layout. Then I added the JS to generate the advice from the api. Could not get the api to fetch new advice on click, so I pivoted and used another api that generates random beer names and breweries.
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ## Author
 
+- Website - [Advice (Beer 🍺) App](https://erictakman.github.io/advice-app/)
 - Frontend Mentor - [@erictakman](https://www.frontendmentor.io/profile/erictakman)
 - Twitter - [@EricTakman](https://www.twitter.com/EricTakman)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks to the Frontend Mentor for the challenge!
