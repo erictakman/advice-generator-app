@@ -2,7 +2,7 @@
 
 # Advice (Beer 🍺) generator app solution
 
-## [Advice (Beer) App](https://erictakman.github.io/advice-app/)
+## [Advice (Beer) App](https://erictakman.github.io/advice-generator-app/)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Started out with adding the HTML and CSS for the basic layout. Then I added the 
 
 ## Author
 
-- Website - [Advice (Beer) App](https://erictakman.github.io/advice-app/)
+- Website - [Advice (Beer) App](https://erictakman.github.io/advice-generator-app/)
 - Frontend Mentor - [@erictakman](https://www.frontendmentor.io/profile/erictakman)
 - Twitter - [@EricTakman](https://www.twitter.com/EricTakman)
 
